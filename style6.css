@@ -28,7 +28,7 @@
 
 body
 {
-    background: url('images/yellow_background.png');
+    background: url('img/yellow_background.png');
     font-family: 'Trebuchet MS', Arial, sans-serif;
     color: #181818;
 }
@@ -51,7 +51,7 @@ section h1, footer h1, nav a
 /* Encabezado */
 header
 {
-    background: url('images/line.png') repeat-x bottom;
+    background: url('img/line.png') repeat-x bottom;
 }
 
 
@@ -125,7 +125,7 @@ nav a:hover
     margin-top: 15px;
     height: 200px;
     border-radius: 5px;
-    background: url('images/sanfrancisco.jpg') no-repeat;
+    background: url('img/sanfrancisco.jpg') no-repeat;
     position: relative;
     box-shadow: 0px 4px 4px #1c1a19;
     margin-bottom: 25px;
@@ -153,7 +153,7 @@ nav a:hover
     position: absolute;
     right: 5px;
     bottom: 5px;
-    background: url('images/red_background.png') repeat-x;
+    background: url('img/red_background.png') repeat-x;
     border: 1px solid #760001;
     border-radius: 5px;
     font-size: 1.2em;
@@ -232,7 +232,7 @@ aside img
 
 footer
 {
-    background:  url('images/top.png') no-repeat top center, url('images/line.png') repeat-x top, url('images/shadow.png') repeat-x top;
+    background:  url('img/top.png') no-repeat top center, url('img/line.png') repeat-x top, url('img/shadow.png') repeat-x top;
     padding-top: 25px;
 }
 
@@ -279,7 +279,7 @@ footer h1
     vertical-align: top;
     margin-top: 0;
     width: 48%;
-    list-style-image: url('images/external_link.png');
+    list-style-image: url('img/external_link.png');
     padding-left: 2px;
 }
 
